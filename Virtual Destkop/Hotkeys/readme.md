@@ -1,4 +1,6 @@
-sch: https://www.google.com/search?q=windows+virtual+desktop+hotkeys
+sch:
+- https://www.google.com/search?q=windows+virtual+desktop+hotkeys
+- https://www.google.com/search?q=windows+hotkey+virtual+desktop
 
 Here are some keyboard shortcuts for virtual desktops in Windows: 
 - Windows key + Ctrl + D: Adds a new virtual desktop 
